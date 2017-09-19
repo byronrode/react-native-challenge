@@ -106,8 +106,6 @@ export default (state = intialState, action) => {
         modalVisible: action.payload
       };
     default:
-      //save and overwrite every state change
-      ls.save('data', state.tasks)
       return state;
   }
 }
