@@ -1,4 +1,12 @@
 {
-  "name": "ToDoList",
-  "displayName": "ToDoList"
+  "expo": {
+    "name": "WhaTudu",
+    "icon": "./icon.png",
+    "version": "0.0.1",
+    "slug": "WhaTuDu",
+    "sdkVersion": "20.0.0",
+    "android": {
+      "package": "com.toreanjoel.WhaTuDu"
+    }
+  }
 }
